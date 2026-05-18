@@ -1,0 +1,14 @@
+google-genai==2.4.0
+langchain==0.2.0
+langchain-core==0.2.0
+langgraph==0.0.69
+sqlalchemy==2.0.29
+pydantic==2.0.0
+python-dotenv==1.0.1
+sqlglot==25.0.0
+pytest==7.4.4
+pytest-cov==4.1.0
+rich==13.7.0
+
+# Optional: for PNG graph visualization (requires graphviz system package)
+# graphviz==0.20.1
